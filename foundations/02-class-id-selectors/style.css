@@ -1,0 +1,23 @@
+.pinkback {
+    background-color: rgb(211, 119, 119);
+    color: hsl(0, 100%, 0);
+    font-size: 12px;
+    font-family: 'Verdana','DejaVu Sans', sans-serif
+}
+
+.pinkback#bigfont {
+    font-size: 24px;
+}
+
+#bigblue {
+    background-color: hsl(0, 100%, 100%);
+    color: #002efd;
+    font-size: 36px;
+}
+
+#greenback {
+    background-color: rgb(84, 219, 156);
+    color: #000000;
+    font-weight: bold;
+    font-size: 24px;
+}
